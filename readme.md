@@ -4,9 +4,7 @@ Long noncoding RNAs (lncRNAs) are extensively involved in various complex diseas
 
 ## 1. Flowchart
 
-![](/Users/liull/Desktop/LDA-RMGPB/flowchart.png)
-
-​                                                                            Figure 1:The flowchart of LDA-RMGPB
+![Figure 1:The flowchart of LDA-RMGPB](flowchart.png)
 
 ## 2. Running environment
 
