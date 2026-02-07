@@ -4,7 +4,7 @@ LncRNA-disease association (LDA) identification can provide valuable insights fo
 
 ## 1. Flowchart
 
-![Figure 1:The flowchart of LDA-RMGPB](flowchart.png)
+![Figure 1:The flowchart of LDA-RMGPB](flowchart.pdf)
 
 ## 2. Running environment
 
